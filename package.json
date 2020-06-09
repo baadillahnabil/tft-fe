@@ -10,9 +10,48 @@
   },
   "dependencies": {
     "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.9.1",
+    "axios": "^0.19.2",
     "clsx": "latest",
+    "formik": "^2.1.4",
+    "lodash": "^4.17.15",
     "react": "latest",
     "react-dom": "latest",
-    "react-scripts": "latest"
+    "react-scripts": "latest",
+    "yup": "^0.29.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "dotenv-webpack": "^1.7.0",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb": "18.0.1",
+    "eslint-config-prettier": "6.2.0",
+    "eslint-import-resolver-babel-module": "^5.1.0",
+    "eslint-loader": "3.0.0",
+    "eslint-plugin-flowtype": "4.3.0",
+    "eslint-plugin-graphql": "3.0.3",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint-plugin-module-resolver": "^0.15.0",
+    "eslint-plugin-prettier": "3.1.0",
+    "eslint-plugin-react": "7.14.3",
+    "eslint-plugin-react-hooks": "^2.0.1",
+    "eslint-watch": "6.0.0",
+    "prettier": "^1.18.2",
+    "react-test-renderer": "^16.9.0",
+    "source-map": "^0.7.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
