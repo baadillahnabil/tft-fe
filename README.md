@@ -1,25 +1,12 @@
-# Create React App example
+### Customers Frontend
 
-## How to use
+**Note: Before you clone this project, you must clone this project `https://github.com/baadillahnabil/tft-be**
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+**Follow the steps below:**
 
-```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app
-cd create-react-app
-```
+1. You can clone this project (use HTTPS) and run `git clone https://github.com/baadillahnabil/tft-fe.git` on your terminal
+2. Move to inside project folder `cd tft-fe`
+3. Install all dependencies, and run `yarn` on your terminal
+4. Run `yarn dev` on your terminal and then open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Install it and run:
-
-```sh
-npm install
-npm start
-```
-
-or:
-
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui-org/material-ui/tree/master/examples/create-react-app)
-
-## The idea behind the example
-
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app).
+Thank you :)
