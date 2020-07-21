@@ -14,7 +14,7 @@
     "axios": "^0.19.2",
     "clsx": "latest",
     "formik": "^2.1.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "latest",
     "react-dom": "latest",
     "react-scripts": "latest",
